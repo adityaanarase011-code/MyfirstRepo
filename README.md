@@ -1,4 +1,4 @@
 # MyfirstRepo
 My first Git reposotory.
 <br>
-Author - Aditya Anarase
+Author - Aditya Anarase BE Mech
