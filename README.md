@@ -1,3 +1,3 @@
 # MyfirstRepo
-My first Git reposotory
+My first Git reposotory.
 Author - Aditya Anarase
